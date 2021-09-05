@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jigarjeet1217, a front-end developer.
 - 👀 I’m interested in learning new web development technologies to enhabce my skills.
-- 🌱 I’m currently learning ract.js and node.js.
+- 🌱 I’m currently learning react.js and node.js.
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
